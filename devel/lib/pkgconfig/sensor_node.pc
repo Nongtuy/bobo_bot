@@ -1,0 +1,8 @@
+prefix=/home/tongthai/small_robot_command_ws/devel
+
+Name: sensor_node
+Description: Description of sensor_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
